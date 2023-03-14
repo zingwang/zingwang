@@ -1,7 +1,3 @@
-# 💫 About Me:
-About Me
-
-
 # 💻 Tech Stack:
 
 ### BackEnd Development
