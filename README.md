@@ -15,6 +15,9 @@
 <br>
 
 
-
+<a href="/">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zingwang&layout=compact&theme=transparent" />
+</a>
+<a href="/">
   <img src="https://github-readme-stats.vercel.app/api?username=zingwang&theme=transparent&show_icons=true" width="42%" />
+</a>
