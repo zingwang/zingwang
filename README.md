@@ -13,3 +13,11 @@
 ### FrontEnd Development
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 <br>
+
+
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zingwang&layout=compact&theme=tokyonight" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username==zingwang&theme=tokyonight&show_icons=true" width="42%" />
+</a>
