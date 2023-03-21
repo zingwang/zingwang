@@ -1,4 +1,8 @@
 ## 💻 Tech Stack:
+<a target="_blank" href="https://pineapple-hollyhock-055.notion.site/Introduce-813fc2639a42471fbfb58030d0977c60">
+    <img src="https://img.shields.io/badge/RESUME-000000?style=flat-square&logo=Notion&logoColor=white"/>
+</a>
+
 ### BackEnd Development
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
